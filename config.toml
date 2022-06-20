@@ -1,7 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://tidunguyen.github.io/blogs/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
+
+publishDir = "docs"
 
 # website title
 title = "My New Hugo Site"
