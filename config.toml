@@ -1,4 +1,4 @@
-baseURL = "https://tidunguyen.github.io/blogs/"
+baseURL = "https://blog.tidu.cc/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
