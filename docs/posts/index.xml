@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All Posts - My New Hugo Site</title>
-        <link>https://blog.tidu.cc/posts/</link>
-        <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Jun 2022 22:40:43 &#43;0700</lastBuildDate><atom:link href="https://blog.tidu.cc/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First_post</title>
-    <link>https://blog.tidu.cc/posts/first_post/</link>
-    <pubDate>Mon, 20 Jun 2022 22:40:43 &#43;0700</pubDate>
-    <author>xxxx</author>
-    <guid>https://blog.tidu.cc/posts/first_post/</guid>
-    <description><![CDATA[Hello, this is my very first blog]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://tedtdn.github.io/blogs/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Jun 2022 22:40:43 +0700</lastBuildDate><atom:link href="https://tedtdn.github.io/blogs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://tedtdn.github.io/blogs/posts/first_post/</link>
+      <pubDate>Mon, 20 Jun 2022 22:40:43 +0700</pubDate>
+      
+      <guid>https://tedtdn.github.io/blogs/posts/first_post/</guid>
+      <description>Hello, this is my very first blog</description>
+    </item>
+    
+  </channel>
 </rss>
