@@ -6,7 +6,7 @@ theme = "LoveIt"
 publishDir = "docs"
 
 # website title
-title = "My New Hugo Site"
+title = "Ted Blogs"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -15,9 +15,9 @@ languageName = "English"
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
+  name = "Ted T. D. Nguyen"
+  email = "ted.td.nguyen@hotmail.com"
+  link = "https://github.com/tedtdn"
 
 # Menu config
 [menu]
